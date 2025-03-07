@@ -1,3 +1,26 @@
+## gz_math_vendor (jazzy) - 0.0.8-1
+
+The packages in the `gz_math_vendor` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy gz_math_vendor --override-release-repository-push-url git@github.com:revyos-ros/gz_math_vendor-release.git` on `Fri, 07 Mar 2025 06:01:16 -0000`
+
+The `gz_math_vendor` package was released.
+
+Version of package(s) in repository `gz_math_vendor`:
+
+- upstream repository: https://github.com/gazebo-release/gz_math_vendor.git
+- release repository: https://github.com/revyos-ros/gz_math_vendor-release.git
+- rosdistro version: `0.0.8-1`
+- old version: `0.0.7-1`
+- new version: `0.0.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## gz_math_vendor (jazzy) - 0.0.7-1
 
 The packages in the `gz_math_vendor` repository were released into the `jazzy` distro by running `/tmp/venv/bin/bloom-release -r jazzy gz_math_vendor --override-release-repository-push-url git@github.com:revyos-ros/gz_math_vendor-release.git` on `Thu, 19 Dec 2024 02:34:29 -0000`
